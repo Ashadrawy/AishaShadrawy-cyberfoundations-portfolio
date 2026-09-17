@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello, My name is Aisha. I am learning cybersecurity because I enjoy puzzles, research, and figuring out how things work. My goal for this course is to learn the basics of cybersecurity and discover where my strengths fit in the field.
+Hello, My name is Aisha. I am learning cybersecurity because I enjoy puzzles, research, and figuring out how things work. My goal for this course is to learn the basics of cybersecurity and discover where my strengths fit in the field..
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
