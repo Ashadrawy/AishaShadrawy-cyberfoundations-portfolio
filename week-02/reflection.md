@@ -1,21 +1,44 @@
 # Week 2 Reflection
 
----
+**Student Name:** Aisha Shadrawy
+
+**Date Completed:** October 8, 2026
 
 ## Prompts
 
-1. What clicked for you this week?
-2. What's still confusing?
-3. How does this week's material connect to a cybersecurity career path you're interested in?
-4. One thing you'd tell a friend just starting this course
+**What clicked for you this week?**
+
+```
+It clicked for me how hardware, the operating system, and software all work together. I understand better how a computer actually runs programs.
+```
+
+**What's still confusing?**
+
+```
+I do not believe I am confused on anything at this moment.
+```
+
+**How does this week's material connect to a cybersecurity career path you're interested in?**
+
+```
+It connects to cybersecurity because I need to understand how computers work before I can understand how attackers exploit them and how to protect them.
+```
+
+**One thing you'd tell a friend just starting this course:**
+
+```
+Don't worry if everything doesn't make sense right away. Learn the basics first and build from there. 
+```
 
 ---
 
 ## Professional Growth Check
 
-- [ ] I documented my reflection clearly and in my own words
-- [ ] I used structured formatting in my submission
-- [ ] My commit message was meaningful and descriptive
+- [x] I documented my reflection clearly and in my own words
+
+- [x] I used structured formatting in my submission
+
+- [x] My commit message was meaningful and descriptive
 
 ---
 
