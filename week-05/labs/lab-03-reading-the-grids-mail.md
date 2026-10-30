@@ -1,8 +1,8 @@
 # Week 5 Lab 03 — Reading the Grid's Mail (Packet Inspector)
 
-**Student Name:**
+**Student Name:** Aisha Shadrawy
 
-**Date Completed:**
+**Date Completed:** October 29,2026
 
 **Module:** 2 — Networking & Cloud Foundations | **Week:** 5  
 **Submission Path:** `week-05/labs/lab-03-reading-the-grids-mail.md`
